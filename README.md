@@ -12,4 +12,4 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 [03]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-02-C++
 [04]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-03-Pascal 
 [05]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-04-Lisp 
-[05]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-05-Rust 
+[06]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-05-Rust 
