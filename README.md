@@ -6,6 +6,9 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 - [hello.pas][04]: Pascal 
 - [hello.lsp][05]: Lisp 
 - [hello.rs][06]: Rust 
+- [hello.go][07]: Go 
+- [hello.f][08]: FORTRAN 
+- [hello.hs][09]: Haskell 
 
 [01]: https://github.com/hagata/30daysofHelloWorld
 [02]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-01-C 
@@ -13,3 +16,6 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 [04]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-03-Pascal 
 [05]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-04-Lisp 
 [06]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-05-Rust 
+[07]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-06-Go 
+[08]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-07-FORTRAN 
+[09]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-08-Haskell 
