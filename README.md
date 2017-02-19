@@ -9,6 +9,8 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 - [Day 06 Go][07]
 - [Day 07 FORTRAN][08]
 - [Day 08 Haskell][09] 
+- [Day 09 x86 Assembly][10] 
+- [Day 10 gas Assembly][11] 
 
 [01]: https://github.com/hagata/30daysofHelloWorld
 [02]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-01-C 
@@ -19,3 +21,5 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 [07]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-06-Go 
 [08]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-07-FORTRAN 
 [09]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-08-Haskell 
+[10]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-09-x86-Assembly 
+[11]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-10-GAS-Assembly
