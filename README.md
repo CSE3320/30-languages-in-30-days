@@ -11,6 +11,9 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 - [Day 08 Haskell][09] 
 - [Day 09 x86 Assembly][10] 
 - [Day 10 gas Assembly][11] 
+- [Day 11 Java][12] 
+- [Day 12 Modula 2][13] 
+- [Day 13 Perl][14] 
 
 [01]: https://github.com/hagata/30daysofHelloWorld
 [02]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-01-C 
@@ -23,3 +26,6 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 [09]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-08-Haskell 
 [10]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-09-x86-Assembly 
 [11]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-10-GAS-Assembly
+[12]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-11-Java
+[13]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-12-Modula2
+[14]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-13-Perl
