@@ -14,6 +14,7 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 - [Day 11 Java][12] 
 - [Day 12 Modula 2][13] 
 - [Day 13 Perl][14] 
+- [Day 14 Python][15] 
 
 [01]: https://github.com/hagata/30daysofHelloWorld
 [02]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-01-C 
@@ -29,3 +30,4 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 [12]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-11-Java
 [13]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-12-Modula2
 [14]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-13-Perl
+[15]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-14-Python
