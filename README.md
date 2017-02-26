@@ -16,6 +16,8 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 - [Day 13 Perl][14] 
 - [Day 14 Python][15] 
 - [Day 15 Forth][16] 
+- [Day 15 Forth][16] 
+- [Day 16 Awk][17] 
 
 [01]: https://github.com/hagata/30daysofHelloWorld
 [02]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-01-C 
@@ -33,3 +35,4 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 [14]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-13-Perl
 [15]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-14-Python
 [16]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-15-Forth
+[17]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-16-Awk
