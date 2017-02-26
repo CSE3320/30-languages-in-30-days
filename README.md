@@ -16,7 +16,6 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 - [Day 13 Perl][14] 
 - [Day 14 Python][15] 
 - [Day 15 Forth][16] 
-- [Day 15 Forth][16] 
 - [Day 16 Awk][17] 
 
 [01]: https://github.com/hagata/30daysofHelloWorld
