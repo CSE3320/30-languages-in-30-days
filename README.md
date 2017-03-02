@@ -46,4 +46,4 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 [20]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-19-COBOL
 [21]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-20-Eiffel
 [22]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-21-OCaml
-[23]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-22-C#
+[23]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-22-C%23
