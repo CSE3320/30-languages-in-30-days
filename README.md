@@ -21,6 +21,7 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 - [Day 18 Zig][19] 
 - [Day 19 COBOL][20] 
 - [Day 20 Eiffel][21] 
+- [Day 21 OCaml][22] 
 
 [01]: https://github.com/hagata/30daysofHelloWorld
 [02]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-01-C 
@@ -43,3 +44,4 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 [19]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-18-Zig
 [20]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-19-COBOL
 [21]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-20-Eiffel
+[22]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-21-OCaml
