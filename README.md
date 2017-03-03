@@ -23,6 +23,7 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 - [Day 20 Eiffel][21] 
 - [Day 21 OCaml][22] 
 - [Day 22 C#][23] 
+- [Day 23 Clojure][24] 
 
 [01]: https://github.com/hagata/30daysofHelloWorld
 [02]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-01-C 
@@ -47,3 +48,4 @@ Inspired by [Genki Hagata][01] I'm going to write a bit of code in 30 different 
 [21]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-20-Eiffel
 [22]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-21-OCaml
 [23]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-22-C%23
+[24]: https://github.com/CSE3320/30-languages-in-30-days/tree/master/Day-23-Clojure
